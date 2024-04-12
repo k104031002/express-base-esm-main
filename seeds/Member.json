@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "email":"nike@test.com",
+    "username":"nike",
+    "password": "12345",
+    "img": "",
+    "info": "This is the description of the brand"
+  },
+  {
+    "id": 2,
+    "name": "adidas",
+    "email":"adidas@test.com",
+    "username":"adidas",
+    "password": "12345",
+    "img": "",
+    "info": "This is the description of the brand"
+  },
+  {
+    "id": 3,
+    "name": "PUMA",
+    "email":"puma@test.com",
+    "username":"puma",
+    "password": "12345",
+    "img": "",
+    "info": "This is the description of the brand"
+  },
+  {
+    "id": 4,
+    "name": "New Balance",
+    "email":"newbalance@test.com",
+    "username":"newbalance",
+    "password": "12345",
+    "img": "",
+    "info": "This is the description of the brand"
+  }
+]
